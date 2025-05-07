@@ -85,9 +85,6 @@
 //     if(temp.length > longWord.length){
 
 //       longWord = temp;
-//       console.log("hii");
-      
-//       console.log(longWord);
       
 //     }
 //     temp = [];
